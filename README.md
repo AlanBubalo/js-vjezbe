@@ -1,3 +1,3 @@
 # Javascript Vježbe
 
-Ovdje se nalaze zadaci iz vježbi. Zadaci iz svake vježbe se nalaze u pojedinoj Javascript datoteci.
+U ovom repozitoriju se nalaze zadaci iz vježbe, svaka vježba u pojedinoj Javascript datoteci.
